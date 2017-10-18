@@ -8,4 +8,6 @@ Sample website with plenty of files for demos
 Another line of text
 The other line of text
 
+Test change
+
 Copyright 2017 CSM
